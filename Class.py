@@ -1,2 +1,2 @@
 print("ali ali ali"),
-print('najmul \d "ali"'),
+print('najmul"ali"'),
