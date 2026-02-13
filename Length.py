@@ -1,6 +1,7 @@
 #length
 name="NaJmUl aKAsH"
-print(len("NaJmUl aKAsH"))
+len=(name NaJmUl aKAsH)
+print
 
 #Lower Kase Small Later ma laya ga
 print(name.lower())
